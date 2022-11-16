@@ -1,0 +1,17 @@
+---
+import HeadCommon from "../components/HeadCommon.astro";
+import HeadSEO from "../components/HeadSEO.astro";
+
+---
+
+<head>
+    <HeadCommon />
+    <HeadSEO />
+</head>
+
+
+<script is:inline>
+    // Redirect your homepage to the first page of documentation.
+    // If you have a landing page, remove this script and add it here!
+    window.location.pathname = `/welcome`;
+</script>
