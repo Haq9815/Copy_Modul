@@ -34,35 +34,15 @@ export const COMMUNITY_INVITE_URL = `https://discord.gg/596bVyXJcQ`;
 export const SIDEBAR = {
   en: [
     { text: 'Welcome to the workshop', link: 'welcome' },
-    { text: 'Workshop content - Day 1', header: true },
-    { text: 'Introduction', link: 'introduction' },
-    { text: 'Setting up Typescript', link: 'setting-up-typescript' },
-    {
-      text: 'Type annotations and inference',
-      link: 'type-annotations-and-inference',
-    },
-    {
-      text: 'Functions, Arrays and objects',
-      link: 'functions-arrays-objects',
-    },
-    { text: 'Tuples and Enums', link: 'tuples-and-enums' },
-    { text: 'Unions and Intersections', link: 'unions-and-intersections' },
-    { text: 'Any, unknown and never', link: 'any-unknown-never-types' },
-    {
-      text: 'Type aliases and Interfaces',
-      link: 'type-aliases-and-interfaces',
-    },
-    { text: 'Workshop content - Day 2', header: true },
-    { text: 'OOP and Access modifiers', link: 'oop-and-access-modifiers' },
-    {
-      text: 'Generics, constrains and Utility types',
-      link: 'generics-and-utility-types',
-    },
-    {
-      text: 'Mapped and Conditional Types',
-      link: 'mapped-and-conditional-types',
-    },
-    { text: 'Type challenges', link: 'type-challenges' },
-    { text: 'Build a typesafe API client', link: 'api-client' },
+    { text: 'Requirements', header: true },
+    { text: 'Code Editor', link: 'instalasi-vscode' },
+    { text: 'Node.js', link: 'instalasi-nodejs' },
+    { text: 'NPM', link: 'instalasi-npm' },
+    { text: 'Mongodb', link: 'instalasi-mongodb' },
+    { text: 'Postman', link: 'instalasi-postman' },
+    { text: 'Workshop Content', header: true },
+    { text: 'Pengenalan API', link: 'pengenalan-api'},
+    { text: 'Pengenalan Koa JS', link: 'pengenalan-koa'},
+    { text: 'Pembuatan API', link: 'pembuatan-api'},
   ],
 };
