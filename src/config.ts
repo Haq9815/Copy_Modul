@@ -10,7 +10,7 @@ export const OPEN_GRAPH = {
     src: "/default-og-image.png",
     alt: "Understanding Koa"
   },
-  twitter: "Lab b201"
+  twitter: "Lab B201"
 };
 
 export const KNOWN_LANGUAGES = {
