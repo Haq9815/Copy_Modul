@@ -1,27 +1,27 @@
 export const SITE = {
-  title: 'Understanding Typescript',
-  description: "Companion website for sidwebworks's typescript workshop.",
-  defaultLanguage: 'en_US',
-  site: 'https://typescript-workshop.sidwebworks.com',
+  title: "Understanding Rest Api",
+  description: "workshop Laboratorium B201 Network and Security",
+  defaultLanguage: "en_US",
+  site: "https://b201.com/"
 };
 
 export const OPEN_GRAPH = {
   image: {
-    src: '/default-og-image.png',
-    alt: 'Understanding Typescript',
+    src: "/default-og-image.png",
+    alt: "Understanding Koa"
   },
-  twitter: 'sidwebworks',
+  twitter: "Lab b201"
 };
 
 export const KNOWN_LANGUAGES = {
-  English: 'en',
+  English: "en"
 };
 
 // Uncomment this to add an "Edit this page" button to every page of documentation.
-export const GITHUB_EDIT_URL = `https://github.com/sidwebworks/typescript-workshop/blob/master/`;
+export const GITHUB_EDIT_URL = ` `;
 
 // Uncomment this to add an "Join our Community" button to every page of documentation.
-export const COMMUNITY_INVITE_URL = `https://discord.gg/596bVyXJcQ`;
+export const COMMUNITY_INVITE_URL = ` `;
 
 // Uncomment this to enable site search.
 // See "Algolia" section of the README for more information.
