@@ -7,11 +7,11 @@ Selamat datang di workshop Laboratorium B201 dari DevGroup Network and Security!
 
 ## Requirements
 
-1. Code Editor - [Panduan Instalasi](./install-vscode.md)
-2. Node JS - [Panduan Instalasi](./install-nodejs.md)
-3. NPM - [Panduan Instalasi](./install-npm.md)
-4. MongoDB - [Panduan Instalasi](./install-mongodb.md)
-5. Postman - [Panduan Instalasi](./install-postman.md)
+1. Code Editor - [Panduan Instalasi](./instalasi-vscode)
+2. Node JS - [Panduan Instalasi](./instalasi-nodejs)
+3. NPM - [Panduan Instalasi](./instalasi-npm)
+4. MongoDB - [Panduan Instalasi](./instalasi-mongodb)
+5. Postman - [Panduan Instalasi](./instalasi-postman)
 
 ## Hari dan Tanggal
 
