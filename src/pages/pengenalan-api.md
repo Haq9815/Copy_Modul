@@ -8,7 +8,7 @@ API (Application Programming Interface) web adalah sebuah teknologi yang memungk
 # Apa itu http ?
 HTTP (Hypertext Transfer Protocol) adalah protokol yang digunakan untuk mengirimkan data melalui internet. HTTP menyediakan berbagai metode yang disebut <b>HTTP methods</b> yang dapat digunakan oleh aplikasi untuk mengirim dan menerima data dari sistem lain.
 </br>
-# HTTP methods
+## HTTP methods
 <b>GET</b>: digunakan untuk mengambil data dari sebuah sumber. Misalnya, jika Anda menggunakan browser untuk mengakses sebuah halaman web, browser Anda akan mengirimkan permintaan GET ke server untuk mengambil halaman tersebut.</br>
 <b>POST</b>: digunakan untuk mengirimkan data ke sebuah sumber. Misalnya, jika Anda mengisi form di sebuah halaman web dan mengirimkannya, browser Anda akan mengirimkan permintaan POST ke server untuk mengirimkan data form tersebut.</br>
 <b>PUT</b>: digunakan untuk mengganti seluruh data di sebuah sumber dengan data baru.</br>
@@ -16,7 +16,7 @@ HTTP (Hypertext Transfer Protocol) adalah protokol yang digunakan untuk mengirim
 <b>DELETE</b>: digunakan untuk menghapus data dari sebuah sumber.</br>
 Dengan menggunakan metode HTTP ini, aplikasi dapat berkomunikasi dan bertukar data dengan sistem lain menggunakan API web. Misalnya, aplikasi dapat mengirim permintaan GET ke sebuah API web untuk mengambil data cuaca, atau mengirim permintaan POST ke API web lain untuk mengirim tweet melalui Twitter.
 
-# Request dan Response
+## Request dan Response
 Permintaan (request) HTTP adalah sebuah permintaan yang dikirimkan oleh <b>aplikasi</b> ke server menggunakan salah satu metode HTTP seperti GET, POST, PUT, PATCH, atau DELETE. Permintaan ini akan mengandung informasi tentang metode HTTP yang digunakan, alamat URL tujuan, dan mungkin juga data lain yang dibutuhkan oleh server untuk memproses permintaan tersebut.
 
 Respon (response) HTTP adalah sebuah balasan yang dikirimkan oleh <b>server</b> ke aplikasi setelah menerima permintaan HTTP. Balasan ini akan mengandung data yang diminta oleh aplikasi, informasi tentang status permintaan, dan mungkin juga informasi lain yang diperlukan oleh aplikasi.

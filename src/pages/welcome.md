@@ -3,7 +3,7 @@ title: Welcome to the Workshop!
 layout: ../layouts/MainLayout.astro
 ---
 
-Selamat datang di workshop Laboratorium B201 dari DevGroup Network and Security!
+<b><h2>Selamat datang di workshop Laboratorium B201 dari DevGroup Network and Security!</h2></b>
 
 ## Requirements
 
