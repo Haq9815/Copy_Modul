@@ -18,7 +18,7 @@ export const KNOWN_LANGUAGES = {
 };
 
 // Uncomment this to add an "Edit this page" button to every page of documentation.
-export const GITHUB_EDIT_URL = ` `;
+export const GITHUB_EDIT_URL = `/`;
 
 // Uncomment this to add an "Join our Community" button to every page of documentation.
 export const COMMUNITY_INVITE_URL = ` `;
