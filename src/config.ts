@@ -2,7 +2,7 @@ export const SITE = {
   title: "Understanding Rest Api",
   description: "Workshop Laboratorium B201 Network and Security",
   defaultLanguage: "en_US",
-  site: "modulapib201.vercel.app"
+  site: "https://modulapib201.vercel.app"
 };
 
 export const OPEN_GRAPH = {
@@ -10,7 +10,7 @@ export const OPEN_GRAPH = {
     src: "/default-og-image.png",
     alt: "Understanding Koa"
   },
-  twitter: " Lab B201 "
+  twitter: "Lab B201"
 };
 
 export const KNOWN_LANGUAGES = {
