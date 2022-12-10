@@ -1,7 +1,8 @@
 ---
-title: Instalasi Node Package Manager
+title: Berkenalan Dengan API
 layout: ../layouts/MainLayout.astro
 ---
+
 # Apa itu api ?
 
 API (Application Programming Interface) web adalah sebuah teknologi yang memungkinkan aplikasi untuk saling berkomunikasi dan bertukar data melalui protokol standar seperti <b>HTTP</b>. API web menyediakan sebuah antarmuka bagi aplikasi yang memungkinkan mereka untuk mengakses fungsi dan data dari sistem lain, seperti sistem operasi, aplikasi, atau basis data.

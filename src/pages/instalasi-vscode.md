@@ -2,8 +2,6 @@
 title: Instalasi Visual Studio Code
 layout: ../layouts/MainLayout.astro
 ---
-# Instalasi Code Editor
-
 ## Apa itu Code Editor?
 Code editor adalah sebuah aplikasi yang digunakan untuk menulis kode program. Code editor memiliki fitur-fitur yang memudahkan kita dalam menulis kode program. Code editor juga memiliki fitur untuk mengecek kesalahan penulisan kode program kita. Pada kesempatan kali ini akan kita gunakan Visual Studio Code sebagai code editor.
 

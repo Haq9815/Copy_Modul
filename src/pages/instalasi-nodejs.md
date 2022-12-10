@@ -1,5 +1,5 @@
 ---
-title: Generics and Utility types
+title: Instalasi Nodejs
 layout: ../layouts/MainLayout.astro
 ---
 
