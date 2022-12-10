@@ -7,6 +7,7 @@ const TableOfContents: FunctionalComponent<{ headings: MarkdownHeading[] }> = ({
 	headings = [],
 }) => {
 	const itemOffsets = useRef([]);
+	console.log(headings);
 	const [activeId, setActiveId] = useState<string>(undefined);
 	useEffect(() => {
 		const getItemOffsets = () => {
