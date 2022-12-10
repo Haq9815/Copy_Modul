@@ -3,10 +3,12 @@ title: Berkenalan Dengan API
 layout: ../layouts/MainLayout.astro
 ---
 
-# Apa itu api ?
+## Apa itu api ?
 
 API (Application Programming Interface) web adalah sebuah teknologi yang memungkinkan aplikasi untuk saling berkomunikasi dan bertukar data melalui protokol standar seperti <b>HTTP</b>. API web menyediakan sebuah antarmuka bagi aplikasi yang memungkinkan mereka untuk mengakses fungsi dan data dari sistem lain, seperti sistem operasi, aplikasi, atau basis data.
-# Apa itu http ?
+
+## Apa itu http ?
+
 HTTP (Hypertext Transfer Protocol) adalah protokol yang digunakan untuk mengirimkan data melalui internet. HTTP menyediakan berbagai metode yang disebut <b>HTTP methods</b> yang dapat digunakan oleh aplikasi untuk mengirim dan menerima data dari sistem lain.
 </br>
 ## HTTP methods
