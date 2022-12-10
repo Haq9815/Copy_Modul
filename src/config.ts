@@ -33,16 +33,16 @@ export const COMMUNITY_INVITE_URL = ` `;
 
 export const SIDEBAR = {
   en: [
-    { text: 'Welcome to the workshop', link: 'welcome' },
-    { text: 'Requirements', header: true },
-    { text: 'Code Editor', link: 'instalasi-vscode' },
-    { text: 'Node.js', link: 'instalasi-nodejs' },
-    { text: 'NPM', link: 'instalasi-npm' },
-    { text: 'Mongodb', link: 'instalasi-mongodb' },
-    { text: 'Postman', link: 'instalasi-postman' },
-    { text: 'Workshop Content', header: true },
-    { text: 'Pengenalan API', link: 'pengenalan-api'},
-    { text: 'Pengenalan Koa JS', link: 'pengenalan-koa'},
-    { text: 'Pembuatan API', link: 'pembuatan-api'},
-  ],
+    { text: "Welcome to the workshop", link: "welcome" },
+    { text: "Requirements", header: true },
+    { text: "Code Editor", link: "instalasi-vscode" },
+    { text: "Node.js", link: "instalasi-nodejs" },
+    { text: "NPM", link: "instalasi-npm" },
+    { text: "Mongodb", link: "instalasi-mongodb" },
+    { text: "Postman", link: "instalasi-postman" },
+    { text: "Workshop Content", header: true },
+    { text: "Pengenalan API", link: "pengenalan-api" },
+    { text: "Pengenalan Koa JS", link: "pengenalan-koa" },
+    { text: "Pembuatan API", link: "pembuatan-api" }
+  ]
 };
