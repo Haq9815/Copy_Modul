@@ -1,5 +1,5 @@
 ---
-import MoreMenu from "../RightSidebar/MoreMenu.astro";
+// import MoreMenu from "../RightSidebar/MoreMenu.astro";
 
 const { content, githubEditUrl } = Astro.props;
 const title = content.title;
@@ -11,7 +11,7 @@ const title = content.title;
 		<slot />
 	</section>
 	<nav class="block sm:hidden">
-		<MoreMenu editHref={githubEditUrl} />
+		<!-- <MoreMenu editHref={githubEditUrl} /> -->
 	</nav>
 </article>
 
