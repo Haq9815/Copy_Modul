@@ -2,7 +2,7 @@ export const SITE = {
   title: "Understanding Rest Api",
   description: "Workshop Laboratorium B201 Network and Security",
   defaultLanguage: "en_US",
-  site: "https://b201.com/"
+  site: "https://modulapib201.vercel.app"
 };
 
 export const OPEN_GRAPH = {
