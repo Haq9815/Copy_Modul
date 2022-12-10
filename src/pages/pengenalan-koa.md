@@ -3,7 +3,7 @@ title: Berkenalan Dengan Koa Js
 layout: ../layouts/MainLayout.astro
 ---
 ## Koa Js
-Koa adalah sebuah framework web untuk Node.js. Framework ini dirancang untuk menjadi fondasi yang lebih kecil, ekspresif, dan kuat untuk aplikasi web dan API. Koa menggunakan paradigma middleware untuk memproses <b>request</b> dan mengirimkan <b>response </b>, yang memungkinkan pengembang untuk dengan mudah menambahkan fitur dan memodifikasi comportment aplikasi
+Koa adalah sebuah framework web untuk Node.js. Framework ini dirancang untuk menjadi fondasi yang lebih kecil, ekspresif, dan kuat untuk aplikasi web dan API. Koa menggunakan paradigma middleware untuk memproses <b>request</b> dan mengirimkan <b>response </b>, yang memungkinkan pengembang untuk dengan mudah menambahkan fitur dan memodifikasi comportment aplikasi.
 
 ## Context
 ctx, atau context, adalah sebuah objek yang digunakan oleh Koa untuk menyimpan informasi tentang request yang sedang diproses dan response yang akan dikirim kembali ke client. Objek ini merupakan argumen yang disediakan untuk setiap fungsi middleware yang dipanggil oleh aplikasi Koa.
