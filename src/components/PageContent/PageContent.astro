@@ -1,6 +1,5 @@
 ---
-import ThemeToggleButton from "../RightSidebar/ThemeToggleButton";
-
+import ThemeToggleButton from "../RightSidebar/ThemeToggleButton.tsx";
 const { content } = Astro.props;
 const title = content.title;
 ---
@@ -9,13 +8,13 @@ const title = content.title;
 	<section class="main-section">
 		<h1 class="content-title" id="overview">{title}</h1>
 		<slot />
-		
 	</section>
-	<nav class="block lg:hidden center ">
-		<ThemeToggleButton client:load />
-		
-	</nav>
+	
 </article>
+
+<nav class="block lg:hidden center ">
+	<ThemeToggleButton client:load />		
+</nav>
 
 <style>
 	.content {
