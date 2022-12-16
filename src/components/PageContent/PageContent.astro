@@ -1,7 +1,7 @@
 ---
 import ThemeToggleButton from "../RightSidebar/ThemeToggleButton";
 
-const { content, githubEditUrl } = Astro.props;
+const { content } = Astro.props;
 const title = content.title;
 ---
 
@@ -12,7 +12,7 @@ const title = content.title;
 		
 	</section>
 	<nav class="block lg:hidden center ">
-		<ThemeToggleButton client:visible />
+		<ThemeToggleButton client:load />
 		
 	</nav>
 </article>
