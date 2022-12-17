@@ -12,7 +12,7 @@ const title = content.title;
 	
 </article>
 
-<nav class="block lg:hidden center ">
+<nav class="block hidden center ">
 	<ThemeToggleButton client:visible />		
 </nav>
 
@@ -37,9 +37,9 @@ const title = content.title;
 		display: block;
 	}
 
-	@media (min-width: 60em) {
-		.lg\:hidden {
-			display: none;
-		}
-	}
+	@media only screen and (min-width: 1115px) {
+	 .hidden{
+	display: none !important;
+   }
+}
 </style>
